@@ -1,17 +1,17 @@
 #######################################
-# Currency Whatever we gonna call it  #
-#         Joshua and Crispin          #
-#                                     #
-#                                     #
+#       Currency Whatever we gonna call it                #
+#                  Joshua and Crispin                                #
+#                                                                                #
+#                                                                                #
 #######################################
 
 #####################################################
-# These are the required dependencies #
+# These are the required dependencies ########
 
 import requests as r
 import pandas as pd
 
-
+######################################
 
 
 
