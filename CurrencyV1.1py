@@ -55,6 +55,7 @@ print(data[0])
 #### Currency Conversion ######
 Chart()
 convert_to = input("What currency do you wish to convert to? \n")
+convert_to = convert_to.upper()
 convert_c = data[0].loc[convert_to]
 #print(convert_c)
 rate = convert_c[0]
