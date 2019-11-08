@@ -1,0 +1,9 @@
+Using Pandas
+
+
+
+Column Reference for the API
+
+0 = Rates
+1 = Symbols
+2 = Dates. They are pulled daily
