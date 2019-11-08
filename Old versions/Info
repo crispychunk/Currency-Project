@@ -4,10 +4,15 @@ List of old versions of the main file
 
 Change Log:
 
-Main 1.0:
+CurrencyV1:
 
 + Data recieve function 
 + Allow user to change base pair currency
+
+CurrencyV1.1:
+
++ Improve DataRecieve function
++ Add currency conversion
 
 
 
